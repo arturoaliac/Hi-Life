@@ -12,3 +12,7 @@
 <p>Dietary Requirements</p>
 <p>Expectation</p>
 
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
