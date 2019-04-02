@@ -11,11 +11,3 @@
 <p>Job Function</p>
 <p>Dietary Requirements</p>
 <p>Expectation</p>
-
-<form>
-  First name:<br>
-  <input type="text" name="firstname"><br>
-  Last name:<br>
-  <input type="text" name="lastname">
-</form>
-
