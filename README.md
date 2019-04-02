@@ -12,9 +12,8 @@
 <p>Dietary Requirements</p>
 <p>Expectation</p>
 
-<form>
-  User name:<br>
-  <input type="text" name="username"><br>
-  User password:<br>
-  <input type="password" name="psw">
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
 </form>
