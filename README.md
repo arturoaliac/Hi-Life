@@ -13,6 +13,9 @@
 <p>Expectation</p>
 
 <form>
-    First name:<br>
-  <input type="text" name="firstname" value="Mickey"><br>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
 </form>
+
