@@ -1,7 +1,7 @@
 <html>
 <h1>information</h1>
-<br><pre>Company Name                 <input type="text"> </pre><br/>
-<br><pre>Firstname                    <input type="text"> </pre></br>
+<pre>Company Name                 <input type="text"> </pre>
+<pre>Firstname                    <input type="text"> </pre>
 <br><pre>Lastname Name                <input type="text"> </pre></br>
 <br><pre>Email Address                <input type="text"> </pre></br>
 <br><pre>Title                        <input type="text"> </pre></br>
