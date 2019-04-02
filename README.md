@@ -1,6 +1,6 @@
 <h1>information</h1>
 <p>Company Name <input type="text"> </p>
-<p>First Name</p>
+<p>Firstname <input type="text"> </p>
 <p>Lastname Name</p>
 <p>Email Address</p>
 <p>Title</p>
