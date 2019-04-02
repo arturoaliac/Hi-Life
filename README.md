@@ -14,7 +14,7 @@
 
 <form>
  User name:<br>
-  <input type="text" name="username"><br>
+  <input type="text" name="username" placeholder="sdsadsadsa"><br>
   Last name:<br>
   <input type="text" name="lastname">
 </form>
