@@ -13,8 +13,8 @@
 <p>Expectation</p>
 
 <form>
- User name:<br>
-  <input type="text" name="username" placeholder="sdsadsadsa"><br>
-  Last name:<br>
-  <input type="text" name="lastname">
+  User name:<br>
+  <input type="text" name="username"><br>
+  User password:<br>
+  <input type="password" name="psw">
 </form>
