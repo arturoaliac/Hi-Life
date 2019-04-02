@@ -1,5 +1,3 @@
 # Hi-Life
 Kahirap
-<h1>My First Heading</h1>
-
-<p>My first paragraph.</p>
+tang ina ano yan
